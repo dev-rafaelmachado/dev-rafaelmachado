@@ -1,3 +1,3 @@
-- 👋 Hi, I’m rafaelmachado
+- 👋 Hi, I’m Rafael Machado
 - 🤗 Welcome 
 
