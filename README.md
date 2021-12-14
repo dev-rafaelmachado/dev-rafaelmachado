@@ -22,4 +22,4 @@
     <a href="https://www.linkedin.com/in/rafael-leal-machado-4966261b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&  logoColor=white" target="_blank"></a>
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9zxlbdnsu4omxcuycomb9f19y&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9zxlbdnsu4omxcuycomb9f19y&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=9zxlbdnsu4omxcuycomb9f19y&redirect=true)
