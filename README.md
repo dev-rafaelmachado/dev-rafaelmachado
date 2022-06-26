@@ -23,7 +23,7 @@
 <h4 align="center">
 <details>
 <summary>More...</summary>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi my name is Rafael Machado</h1></img>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" heigth="35" width="35">Hi my name is Rafael Machado</h1></img>
   <h3 align="center">Student in PUCPR Computer Science</h3>
   
   <p align="center">
