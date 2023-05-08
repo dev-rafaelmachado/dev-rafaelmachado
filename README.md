@@ -1,24 +1,24 @@
 [![header](./Header.png)](https://github.com/dev-rafaelmachado)
 
 <p align="center">
-    <a href="https://code.visualstudio.com/">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-      </a>
-    <a href="https://git-scm.com/">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-        </a>  
-    <a href="https://www.python.org/downloads/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="python3" width="40" height="40"/>
-        </a>    
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="css3" width="40" height="40"/>
+        </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-        </a>
+        </a>   
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
         </a>
     <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
         </a>
+    <a href="https://www.python.org/downloads/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="python3" width="35" height="40"/>
+        </a> 
+     <a href="https://www.python.org/downloads/">
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="python3" width="40" height="40"/>
+        </a> 
    </p>
 <h4 align="center">
 <details>
