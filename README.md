@@ -3,14 +3,13 @@
         width: 100%;
     "
 >
-<div style="text-align: center; width: 100vw; height: 200px;">
+<div style="width: 100vw;">
     <img
         src="imgs/Header.gif"
         alt="Header"
         align="center"
         style="
             width: 100%;
-            height: 100%;
             object-fit: cover; 
             object-position: 50% 50%;"
     />
@@ -18,16 +17,18 @@
 </div>
 
 <!-- Title -->
-<h3 align="center" style="font-size: large;">Hi 👋, I'm 
+<h1 align="center" style="font-size: large;">Hi 👋, I'm 
     <a href="https://portfolio-hazel-three-72.vercel.app/" target="blank">
         Rafael
     </a>
-</h3>
+</h1>
 
 <!-- Subtitle -->
 <h3 align="center" style="padding: 0px 20px;">
-    Hi, I'm Rafael. A passionate Web Developer diving deep into the Javascript stack, and an enthusiast of Rust-lang.
+   Passionate web developer diving deep into the Javascript stack, and an enthusiast of Rust-lang
 </h3>
+
+</br>
 
 <!-- About me -->
 - 🔭 I’m currently working in <a href="https://www.exban.com.br/" target="blank">Exban Consultoria</a>
