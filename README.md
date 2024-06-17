@@ -1,28 +1,31 @@
 <main
     style="
         width: 100%;
-        margin: 0;
-        padding: 0;
     "
 >
-<div style="text-align: center;">
+<div style="text-align: center; width: 100vw; height: 200px;">
     <img
         src="imgs/Header.gif"
         alt="Header"
-        style="width: 100%; height: 230px; object-fit: cover; object-position: 50% 50%;"
+        align="center"
+        style="
+            width: 100%;
+            height: 100%;
+            object-fit: cover; 
+            object-position: 50% 50%;"
     />
     <!-- <p style="font-size: 12px;">Credits: I don't know</p>  -->
 </div>
 
 <!-- Title -->
-<h3 align="center" style="font-size: 2.4rem">Hi 👋, I'm 
+<h3 align="center" style="font-size: large;">Hi 👋, I'm 
     <a href="https://portfolio-hazel-three-72.vercel.app/" target="blank">
         Rafael
     </a>
 </h3>
 
 <!-- Subtitle -->
-<h3 align="center" style="padding: 0rem 2rem">
+<h3 align="center" style="padding: 0px 20px;">
     Hi, I'm Rafael. A passionate Web Developer diving deep into the Javascript stack, and an enthusiast of Rust-lang.
 </h3>
 
@@ -135,8 +138,8 @@ class Bio extends Developer, Skills {
         justify-content: center; 
         align-items: center; 
         gap: 0.5rem;
-        margin-top: 1rem;
-        margin-bottom: 2rem;
+        margin-top: 10px;
+        margin-bottom: 10px;
     "
 >
 <a href="" target="blank">
@@ -180,8 +183,10 @@ class Bio extends Developer, Skills {
 </a>
 </div>
 
+</br>
+
 <!--profile visit count-->
-<div align="center">
+<div align="center" style="margin: 30px">
   
 [![](https://visitcount.itsvg.in/api?id=dev-rafaelmachado&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
 
