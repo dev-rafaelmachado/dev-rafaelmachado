@@ -1,10 +1,8 @@
-import { Developer } from 'github.com/Developer'
-import { Skills } from 'github.com/Skills'
-class Bio implements Developer, Skills{
-    name: string = 'Rafael'
-    age: number = 20
-    location: string = 'Curitiba, PR - Brazil'
-    languages: string[] = [
+class Bio {
+    name = 'Rafael'
+    age = 20
+    location = 'Curitiba, PR - Brazil'
+    languages = [
         'JavaScript', 'TypeScript', 'Rust', 'Java', 'C++', 'Python'
     ]
     skills = [
