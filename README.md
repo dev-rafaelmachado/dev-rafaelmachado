@@ -1,59 +1,224 @@
-[![header](./Header.png)](https://github.com/dev-rafaelmachado)
+<main
+    style="
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    "
+>
+<div style="text-align: center;">
+    <img
+        src="imgs/Header.gif"
+        alt="Header"
+        style="width: 100%; height: 230px; object-fit: cover; object-position: 50% 50%;"
+    />
+    <!-- <p style="font-size: 12px;">Credits: I don't know</p>  -->
+</div>
 
-<p align="center">
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="css3" width="40" height="40"/>
-        </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-        </a>   
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/>
-        </a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
-        </a>
-    <a href="https://www.python.org/downloads/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="python3" width="35" height="40"/>
-        </a> 
-     <a href="https://www.python.org/downloads/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="python3" width="40" height="40"/>
-        </a> 
-   </p>
-<h4 align="center">
-<details>
-<summary>More...</summary>
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" heigth="35" width="35">Hi my name is Rafael Machado</h1></img>
-  <h3 align="center">Student in PUCPR Computer Science</h3>
+<!-- Title -->
+<h3 align="center" style="font-size: 2.4rem">Hi 👋, I'm 
+    <a href="https://portfolio-hazel-three-72.vercel.app/" target="blank">
+        Rafael
+    </a>
+</h3>
+
+<!-- Subtitle -->
+<h3 align="center" style="padding: 0rem 2rem">
+    Hi, I'm Rafael. A passionate Web Developer diving deep into the Javascript stack, and an enthusiast of Rust-lang.
+</h3>
+
+<!-- About me -->
+- 🔭 I’m currently working in <a href="https://www.exban.com.br/" target="blank">Exban Consultoria</a>
+- 🌱 I’m currently learning: Machine learning, prompt engineer and rust lang
+- ⚡ Fun fact: My dog is my pair programming 
+
+</br>
+
+<!-- Bio in code -->
+```ts
+import { Developer } from 'github.com/Developer'
+import { Skills } from 'github.com/Skills'
+
+class Bio extends Developer, Skills {
+    name: string = 'Rafael'
+    age: number = 20
+    location: string = 'Curitiba, PR - Brazil'
+    web: string = 'https://portfolio-hazel-three-72.vercel.app/'
+    languages: string[] = [
+        'JavaScript', 'TypeScript', 'Rust', 'Java', 'C++', 'Python'
+    ]
+
+    constructor() {
+        super()
+        this.skills = [
+            'Frontend Development', 
+            'Backend Development',
+            'Studying all the time'
+        ]
+    }
+}
+```
+
+<!--tech stack icons-->
+<h3 
+    align="center"
+    style="
+        margin-top: 2rem;
+        font-size: 1.5rem;
+    "
+>
+    Technologies That I Know👨🏻‍💻
+</h3>
+
+<div
+    align="center"
+    style="
+        width: 100%;
+        display: flex; 
+        justify-content: center; 
+        align-items: center; 
+        gap: 0.5rem;
+        margin-top: 1rem;
+    "
+>
+
+<!-- Techs -->
+[![Techs](https://skillicons.dev/icons?i=js,ts,html,css,rust,java,cpp,python,react,nextjs,tailwindcss,nodejs,express,prisma,docker,figma,git,vscode&perline=7)](https://skillicons.dev)
+</div>
+
+<!-- Github Stats -->
+<div
+    align="center"
+    style="
+        width: 100%;
+        display: flex; 
+        flex-direction: column; 
+        justify-content: center; 
+        align-items: center; 
+        gap: 0.5rem;
+        margin-top: 1rem;
+    "
+>
+<h3 
+    align="center"
+    style="
+        margin-top: 2rem;
+        font-size: 1.5rem;
+    "
+>
+    Github Stats📈
+</h3>
+
+<!-- Trophies -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=dev-rafaelmachado&theme=darkhub&&theme=radical&row=2&column=3&margin-h=18&margin-w=9&no-bg=true&no-frame=true)]()
+
+
+</div>
+
+
+<!-- Connect with me -->
+<h3 
+    align="center"
+    style="
+        margin-top: 2rem;
+        font-size: 1.5rem;
+    "
+>
+    Connect With Me🤝
+</h3>
+
+<!--icons and links-->
+<div 
+    align="center"
+    style="
+        width: 100%;
+        display: flex; 
+        justify-content: center; 
+        align-items: center; 
+        gap: 0.5rem;
+        margin-top: 1rem;
+        margin-bottom: 2rem;
+    "
+>
+<a href="" target="blank">
+    <img 
+        align="center" 
+        src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" 
+        alt="linkedin" 
+        height="50"
+        width="50" 
+    />
+</a>
+
+<a href="" target="blank">
+    <img 
+        align="center" 
+        src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" 
+        alt="twitter" 
+        height="50"
+        width="50" 
+    />
+</a>
+
+<a href="" target="blank">
+    <img 
+        align="center" 
+        src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" 
+        alt="instagram" 
+        height="50"
+        width="50" 
+    />
+</a>
+
+<a href="" target="blank">
+    <img 
+        align="center" 
+        src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" 
+        alt="discord" 
+        height="50"
+        width="50" 
+    />
+</a>
+</div>
+
+<!--profile visit count-->
+<div align="center">
   
-  <p align="center">
-    <a href="https://github.com/dev-rafaelmachado">
-        <img
-        align="center"
-        height="150em"
-        src="https://github-readme-stats.vercel.app/api?username=dev-rafaelmachado&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
-        />
-    </a>
-    <a href="https://github.com/dev-rafaelmachado">
-        <img
-        align="center"
-        height="150em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rafaelmachado&layout=compact&langs_count=7&theme=github_dark"
-        />
-    </a>
-</p>
-<h3 align="center">About me:</h3>
-    <a href="https://www.instagram.com/rafael_rlm_/" target="_blank">
-        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-    </a>
-    <a href="https://rentry.co/uf56a" target="_blank">
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-    </a> 
-    <a href = "mailto:dev.rafaelmachado@gmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-    </a>
-    <a href="https://www.linkedin.com/in/rafael-leal-machado-4966261b3/" target="_blank">
-        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&  logoColor=white" target="_blank">
-    </a>
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9zxlbdnsu4omxcuycomb9f19y&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=9zxlbdnsu4omxcuycomb9f19y&redirect=true)
+[![](https://visitcount.itsvg.in/api?id=dev-rafaelmachado&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)
+
+</div>
+
+<!-- Snake -->
+<picture>
+    <source 
+        media="(prefers-color-scheme: dark)" 
+        srcset="github-snake-dark.svg" 
+    />
+    <source 
+        media="(prefers-color-scheme: light)" 
+        srcset="github-snake.svg" />
+  <img 
+    alt="github-snake" 
+    src="github-snake.svg" 
+    />
+</picture>
+
+
+<!-- Others (Github Stats, Quotes, etc)  -->
+
+<!-- Quotes -->
+<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Mocha)](https://github.com/piyushsuthar/github-readme-quotes) -->
+
+<!-- Github Stats -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rafaelmachado&layout=compact&theme=dark)]() -->
+
+<!-- Github Stats -->
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-rafaelmachado&show_icons=true&theme=dark)]() -->
+
+<!-- Github Stats List -->
+<!-- [![GitHub Stats](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dev-rafaelmachado&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)]() -->
+
+<!-- Github Stats -->
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-rafaelmachado&theme=dark)]() -->
+
+
+</main>
