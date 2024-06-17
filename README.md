@@ -3,9 +3,9 @@
         width: 100%;
     "
 >
-<div style="width: 100vw;">
+<div style="width: 100%;">
     <img
-        src="imgs/Header.gif"
+        src="imgs/Header_400.gif"
         alt="Header"
         align="center"
         style="
@@ -16,8 +16,10 @@
     <!-- <p style="font-size: 12px;">Credits: I don't know</p>  -->
 </div>
 
+</br>
+
 <!-- Title -->
-<h1 align="center" style="font-size: large;">Hi 👋, I'm 
+<h1 align="center">Hi 👋, I'm 
     <a href="https://portfolio-hazel-three-72.vercel.app/" target="blank">
         Rafael
     </a>
