@@ -20,7 +20,7 @@
 
 <!-- Title -->
 <h1 align="center">Hi 👋, I'm 
-    <a href="https://portfolio-hazel-three-72.vercel.app/" target="blank">
+    <a href="https://dev-rafaelmachado.vercel.app/" target="blank">
         Rafael
     </a>
 </h1>
@@ -48,6 +48,7 @@ class Bio implements Developer, Skills{
     name: string = 'Rafael'
     age: number = 20
     location: string = 'Curitiba, PR - Brazil'
+    website: string = 'https://dev-rafaelmachado.vercel.app/'
     languages: string[] = [
         'JavaScript', 'TypeScript', 'Rust', 'Java', 'C++', 'Python'
     ]
