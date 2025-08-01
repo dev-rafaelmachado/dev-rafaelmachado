@@ -1,8 +1,5 @@
-<main
-    style="
-        width: 100%;
-    "
->
+<main style="width: 100%;">
+
 <div style="width: 100%;">
     <img
         src="imgs/Header_400.gif"
@@ -13,64 +10,28 @@
             object-fit: cover; 
             object-position: 50% 50%;"
     />
-    <!-- <p style="font-size: 12px;">Credits: I don't know</p>  -->
 </div>
 
-</br>
+<br>
 
-<!-- Title -->
-<h1 align="center">Hi 👋, I'm 
-    <a href="https://dev-rafaelmachado.vercel.app/" target="blank">
-        Rafael
-    </a>
-</h1>
+<!-- Terminal Style Header -->
 
-<!-- Subtitle -->
-<h3 align="center" style="padding: 0px 20px;">
-   Passionate web developer diving deep into the Javascript stack, and an enthusiast of Rust-lang
-</h3>
+<div
+    align="center"
+    style="
+        width: 100%;
+        display: flex; 
+        flex-direction: column; 
+        justify-content: center; 
+        align-items: center; 
+        gap: 0.5rem;
+        margin-top: 2rem;
+    "
+>
 
-</br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=4C7F8C&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Avaliable+for+new+projects;Let's+build+something+amazing!;Javascript+stack;Rust-lang+enthusiast+" alt="Typing SVG" />
 
-<!-- About me -->
-- 🔭 I’m currently working in <a href="https://www.exban.com.br/" target="blank">Exban Consultoria</a>
-- 🌱 I’m currently learning: Machine learning, prompt engineer and rust lang
-- ⚡ Fun fact: My dog is my pair programming 
-
-</br>
-
-<!-- Bio in code -->
-```ts
-import { Developer } from 'github.com/Developer'
-import { Skills } from 'github.com/Skills'
-
-class Bio implements Developer, Skills{
-    name: string = 'Rafael'
-    age: number = 20
-    location: string = 'Curitiba, PR - Brazil'
-    website: string = 'https://dev-rafaelmachado.vercel.app/'
-    languages: string[] = [
-        'JavaScript', 'TypeScript', 'Rust', 'Java', 'C++', 'Python'
-    ]
-    skills = [
-        'Frontend Development', 
-        'Backend Development',
-        'Studying all the time'
-    ]
-
-    constructor() {
-        console.log('Hello, my name is', this.name)
-        console.log('I am', this.age, 'years old')
-        console.log('I live in', this.location)
-        console.log('I am a developer and I have the following skills:')
-        this.skills.forEach(skill => console.log(' -', skill))
-        console.log('I am also knowledgeable in the following languages:')
-        this.languages.forEach(language => console.log(' -', language))
-    }
-}
-
-new Bio()
-```
+</div>
 
 <!--tech stack icons-->
 <h3 
@@ -83,6 +44,10 @@ new Bio()
     Technologies That I Know👨🏻‍💻
 </h3>
 
+<!-- Programming Languages -->
+<h4 align="center" style="margin-top: 1.5rem; color: #58a6ff;">
+    🚀 Programming Languages
+</h4>
 <div
     align="center"
     style="
@@ -91,12 +56,87 @@ new Bio()
         justify-content: center; 
         align-items: center; 
         gap: 0.5rem;
-        margin-top: 1rem;
+        margin-top: 0.5rem;
     "
 >
 
-<!-- Techs -->
-[![Techs](https://skillicons.dev/icons?i=js,ts,html,css,rust,java,cpp,python,react,nextjs,tailwindcss,nodejs,express,prisma,docker,figma,git,vscode&perline=7)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,rust,java,cpp,python&perline=6)](https://skillicons.dev)
+</div>
+
+<!-- Frontend Technologies -->
+<h4 align="center" style="margin-top: 1.5rem; color: #58a6ff;">
+    🎨 Frontend Technologies
+</h4>
+<div
+    align="center"
+    style="
+        width: 100%;
+        display: flex; 
+        justify-content: center; 
+        align-items: center; 
+        gap: 0.5rem;
+        margin-top: 0.5rem;
+    "
+>
+
+[![Frontend](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwindcss,styledcomponents&perline=6)](https://skillicons.dev)
+</div>
+
+<!-- Backend Technologies -->
+<h4 align="center" style="margin-top: 1.5rem; color: #58a6ff;">
+    ⚙️ Backend Technologies
+</h4>
+<div
+    align="center"
+    style="
+        width: 100%;
+        display: flex; 
+        justify-content: center; 
+        align-items: center; 
+        gap: 0.5rem;
+        margin-top: 0.5rem;
+    "
+>
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,firebase&perline=5)](https://skillicons.dev)
+</div>
+
+<!-- Testing & Cloud -->
+<h4 align="center" style="margin-top: 1.5rem; color: #58a6ff;">
+    ☁️ Cloud & Testing
+</h4>
+<div
+    align="center"
+    style="
+        width: 100%;
+        display: flex; 
+        justify-content: center; 
+        align-items: center; 
+        gap: 0.5rem;
+        margin-top: 0.5rem;
+    "
+>
+
+[![Cloud](https://skillicons.dev/icons?i=aws,vercel,cypress,jest&perline=4)](https://skillicons.dev)
+</div>
+
+<!-- Tools & Others -->
+<h4 align="center" style="margin-top: 1.5rem; color: #58a6ff;">
+    🛠️ Tools & Others
+</h4>
+<div
+    align="center"
+    style="
+        width: 100%;
+        display: flex; 
+        justify-content: center; 
+        align-items: center; 
+        gap: 0.5rem;
+        margin-top: 0.5rem;
+    "
+>
+
+[![Tools](https://skillicons.dev/icons?i=docker,figma,git,vscode&perline=4)](https://skillicons.dev)
 </div>
 
 <!-- Github Stats -->
@@ -109,9 +149,10 @@ new Bio()
         justify-content: center; 
         align-items: center; 
         gap: 0.5rem;
-        margin-top: 1rem;
+        margin-top: 2rem;
     "
 >
+
 <h3 
     align="center"
     style="
@@ -125,9 +166,7 @@ new Bio()
 <!-- Trophies -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=dev-rafaelmachado&theme=darkhub&&theme=radical&row=2&column=3&margin-h=18&margin-w=9&no-bg=true&no-frame=true)]()
 
-
 </div>
-
 
 <!-- Connect with me -->
 <h3 
@@ -153,7 +192,8 @@ new Bio()
         margin-bottom: 10px;
     "
 >
-<a href=https://www.linkedin.com/in/rafael-leal-machado-4966261b3/" target="blank">
+
+<a href="https://www.linkedin.com/in/rafael-leal-machado-4966261b3/" target="blank">
     <img 
         align="center" 
         src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" 
@@ -194,7 +234,7 @@ new Bio()
 </a>
 </div>
 
-</br>
+<br>
 
 <!--profile visit count-->
 <div align="center" style="margin: 30px">
@@ -217,24 +257,5 @@ new Bio()
     src="https://github.com/dev-rafaelmachado/dev-rafaelmachado/blob/output/github-contribution-grid-snake.svg" 
     />
 </picture>
-
-
-<!-- Others (Github Stats, Quotes, etc)  -->
-
-<!-- Quotes -->
-<!-- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=Mocha)](https://github.com/piyushsuthar/github-readme-quotes) -->
-
-<!-- Github Stats -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-rafaelmachado&layout=compact&theme=dark)]() -->
-
-<!-- Github Stats -->
-<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-rafaelmachado&show_icons=true&theme=dark)]() -->
-
-<!-- Github Stats List -->
-<!-- [![GitHub Stats](https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=dev-rafaelmachado&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10)]() -->
-
-<!-- Github Stats -->
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-rafaelmachado&theme=dark)]() -->
-
 
 </main>
